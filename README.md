@@ -1,3 +1,3 @@
-# Drum-Kit Challenge
+# 🥁 Drum-Kit Challenge
 
-## Created Using JavaScript, DOM-Manipulation, CSS, HTML
+###  Created Using JavaScript, DOM-Manipulation, CSS, HTML
